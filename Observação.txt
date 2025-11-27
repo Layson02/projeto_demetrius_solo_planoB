@@ -1,0 +1,5 @@
+fiz isso sozinho, no caso de que não tivesse atualizações do que fizeram no meu grupo (ex: fizeram tudo sozinho e não restou nada para que eu fizesse)
+
+deixei alguns comentarios no meio das linhas do codigo (não sei se servem para apresentação)
+
+é claro que oq eu irei comentar sobre o codigo não esta explicitamente escrito no codigo
